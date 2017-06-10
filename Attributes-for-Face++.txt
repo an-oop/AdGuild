@@ -1,0 +1,9 @@
+https://apius.faceplusplus.com/v2/detection/detect?url=http%3A%2F%2Ffaceplusplus.com%2Fstatic%2Fimg%2Fdemo%2F1.jpg&api_secret=hL09r8LdYTfOYxG-SCVXFtTIQ-nvlk4a&api_key=d6e78f360228334aae60870c868a6ade&attribute=glass,pose,gender,age,race,smiling
+
+
+
+http://faceplusplus.com/static/img/demo/1.jpg
+
+
+api_key=d6e78f360228334aae60870c868a6ade
+api_secret=hL09r8LdYTfOYxG-SCVXFtTIQ-nvlk4a
